@@ -1,5 +1,4 @@
-# 👋 Hi, I'm [Your Name]
-
+# 👋 Hi, I'm Daniel
 Cloud & IT enthusiast currently preparing for **Microsoft Azure Administrator (AZ-104)**.
 
 ---

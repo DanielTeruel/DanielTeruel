@@ -42,4 +42,4 @@ Each lab includes:
 
 📫 **Let’s connect**
 - GitHub: https://github.com/[your-username]
-- LinkedIn: https://www.linkedin.com/in/[your-profile]
+- LinkedIn: [https://www.linkedin.com/in/[your-profile]](https://es.linkedin.com/in/daniel-teruel-tirado)

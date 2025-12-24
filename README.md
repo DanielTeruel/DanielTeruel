@@ -41,5 +41,5 @@ Each lab includes:
 ---
 
 📫 **Let’s connect**
-- GitHub: https://github.com/[your-username]
+- GitHub: [https://github.com/DanielTeruel](https://github.com/DanielTeruel)
 - LinkedIn: [https://www.linkedin.com/in/daniel-teruel](https://es.linkedin.com/in/daniel-teruel-tirado)

@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Hi, I'm [Your Name]
 
-<!--
-**DanielTeruel/DanielTeruel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cloud & IT enthusiast currently preparing for **Microsoft Azure Administrator (AZ-104)**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ☁️ What I'm working on
+- Hands-on labs for **AZ-104**
+- Azure Governance (RBAC, Policies, Locks)
+- Azure Storage (Blob, Files, Security, Networking)
+- Documenting labs professionally on GitHub
+
+---
+
+## 🧪 Azure Labs
+- **AZ-104 Lab 02a** – Manage Subscriptions and RBAC  
+- **AZ-104 Lab 02b** – Azure Governance (Policies, Tags, Locks)  
+- **AZ-104 Lab 07** – Azure Storage (Blob, Files, Security, Networking)
+
+Each lab includes:
+- Business scenario (roleplay)
+- Step-by-step documentation
+- Screenshots
+- Cleanup procedures
+
+---
+
+## 🛠️ Technologies
+- Microsoft Azure
+- Azure Portal
+- Azure RBAC & Policies
+- Azure Storage
+- Git & GitHub
+
+---
+
+## 🎯 Goals
+- Earn **AZ-104 certification**
+- Build a strong cloud portfolio
+- Transition into a Cloud / Azure Administrator role
+
+---
+
+📫 **Let’s connect**
+- GitHub: https://github.com/[your-username]
+- LinkedIn: https://www.linkedin.com/in/[your-profile]

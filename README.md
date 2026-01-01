@@ -18,7 +18,7 @@ Cloud & IT enthusiast currently preparing for **Microsoft Azure Administrator (A
 ## 🧪 Azure Labs Completed / In Progress
 - **[AZ-104 Lab 02 – Manage Subscriptions and RBAC](./lab02-manage-subscriptions-rbac/)**  
 - **[AZ-104 Lab 02b – Azure Policy & Governance](./lab02b–Azure-Policy-Governance/)**  
-- **[AZ-104 Lab 03 – Azure ARM Templates](./lab03–Azure-ARM-Templates/)**  
+- **[AZ-104 Lab 03 – Azure ARM Templates](az-104-labs/lab03–Azure-ARM-Templates/)**  
 - **[AZ-104 Lab 07 – Manage Azure Storage](./lab07–Manage-Azure-Storage/)**  
 - **[AZ-104 Lab 08 – Manage Virtual Machines](./lab08–Manage-Virtual-Machines/)**  
 - **[AZ-104 Lab 09a – Azure Web Apps](./lab09a–Azure-Web-Apps/)**  

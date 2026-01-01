@@ -16,12 +16,12 @@ Cloud & IT enthusiast currently preparing for **Microsoft Azure Administrator (A
 ---
 
 ## 🧪 Azure Labs Completed / In Progress
-- **[AZ-104 Lab 02 – Manage Subscriptions and RBAC](./lab02-manage-subscriptions-rbac/)**  
-- **[AZ-104 Lab 02b – Azure Policy & Governance](./lab02b–Azure-Policy-Governance/)**  
-- **[AZ-104 Lab 03 – Azure ARM Templates](az-104-labs/lab03–Azure-ARM-Templates/)**  
-- **[AZ-104 Lab 07 – Manage Azure Storage](./lab07–Manage-Azure-Storage/)**  
-- **[AZ-104 Lab 08 – Manage Virtual Machines](./lab08–Manage-Virtual-Machines/)**  
-- **[AZ-104 Lab 09a – Azure Web Apps](./lab09a–Azure-Web-Apps/)**  
+- **[AZ-104 Lab 02b – Azure Policy & Governance](https://github.com/DanielTeruel/az-104-labs/tree/main/lab02b–Azure-Policy-Governance)**
+- **[AZ-104 Lab 03 – Azure ARM Templates](https://github.com/DanielTeruel/az-104-labs/tree/main/lab03–Azure-ARM-Templates)**
+- **[AZ-104 Lab 07 – Manage Azure Storage](https://github.com/DanielTeruel/az-104-labs/tree/main/lab07–Manage-Azure-Storage)**
+- **[AZ-104 Lab 08 – Manage Virtual Machines](https://github.com/DanielTeruel/az-104-labs/tree/main/lab08–Manage-Virtual-Machines)**
+- **[AZ-104 Lab 09a – Azure Web Apps](https://github.com/DanielTeruel/az-104-labs/tree/main/lab09a–Azure-Web-Apps)**
+
 
 Each lab includes:
 - Business scenario (roleplay)

@@ -16,12 +16,12 @@ Cloud & IT enthusiast currently preparing for **Microsoft Azure Administrator (A
 ---
 
 ## 🧪 Azure Labs Completed / In Progress
-- **AZ-104 Lab 02a** – Manage Subscriptions and RBAC  
-- **AZ-104 Lab 02b** – Azure Policy & Governance (Policies, Tags, Locks)  
-- **AZ-104 Lab 03** – Azure ARM Templates (Infrastructure as Code)  
-- **AZ-104 Lab 07** – Azure Storage (Blob, Files, Security, Networking)  
-- **AZ-104 Lab 08** – Manage Virtual Machines (VMs, VMSS, Autoscaling)  
-- **AZ-104 Lab 09a** – Azure Web Apps (App Service, Deployment Slots, GitHub Deployment, Auto-scaling, Load Testing)
+- **[AZ-104 Lab 02a – Manage Subscriptions and RBAC](./lab02-manage-subscriptions-rbac)**  
+- **[AZ-104 Lab 02b – Azure Policy & Governance](./lab02b–Azure-Policy-Governance)** (Policies, Tags, Locks)  
+- **[AZ-104 Lab 03 – Azure ARM Templates](./lab03–Azure-ARM-Templates)** (Infrastructure as Code)  
+- **[AZ-104 Lab 07 – Azure Storage](./lab07–Manage-Azure-Storage)** (Blob, Files, Security, Networking)  
+- **[AZ-104 Lab 08 – Manage Virtual Machines](./lab08–Manage-Virtual-Machines)** (VMs, VMSS, Autoscaling)  
+- **[AZ-104 Lab 09a – Azure Web Apps](./lab09a–Azure-Web-Apps)** (App Service, Deployment Slots, GitHub Deployment, Auto-scaling, Load Testing)
 
 Each lab includes:
 - Business scenario (roleplay)

@@ -66,5 +66,3 @@ Each lab includes:
 
 * GitHub: [https://github.com/DanielTeruel](https://github.com/DanielTeruel)
 * LinkedIn: [https://www.linkedin.com/in/daniel-teruel](https://es.linkedin.com/in/daniel-teruel-tirado)
-
-¿Quieres que haga esa versión bilingüe?

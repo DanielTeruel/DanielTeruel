@@ -21,7 +21,7 @@ Cloud & IT enthusiast currently preparing for **Microsoft Azure Administrator (A
 
 * **[AZ-104 Lab 03 – Azure ARM Templates](https://github.com/DanielTeruel/az-104-labs/tree/main/lab03–Azure-ARM-Templates)**
 
-* **[AZ-104 Lab 04 – Implement Virtual Networking](https://github.com/DanielTeruel/az-104-labs/tree/main/lab04-Implement-Virtual-Networking)**
+* **[AZ-104 Lab 04 – Implement Virtual Networking](https://github.com/DanielTeruel/az-104-labs/tree/main/lab04–Implement-Virtual-Networking)**
 
 * **[AZ-104 Lab 05 – Implement Intersite Connectivity](https://github.com/DanielTeruel/az-104-labs/tree/main/lab05-Implement-Intersite-Connectivity)**
 

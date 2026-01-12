@@ -25,7 +25,7 @@ Cloud & IT enthusiast currently preparing for **Microsoft Azure Administrator (A
 
 * **[AZ-104 Lab 05 – Implement Intersite Connectivity](https://github.com/DanielTeruel/az-104-labs/tree/main/lab05–Implement-Intersite-Connectivity)**
 
-* **[AZ-104 Lab 06 – Implement Network Traffic Management](https://github.com/DanielTeruel/az-104-labs/tree/main/lab06-Implement-Network-Traffic-Management)**
+* **[AZ-104 Lab 06 – Implement Network Traffic Management](https://github.com/DanielTeruel/az-104-labs/tree/main/lab06–Implement-Network-Traffic-Management)**
 
 * **[AZ-104 Lab 07 – Manage Azure Storage](https://github.com/DanielTeruel/az-104-labs/tree/main/lab07–Manage-Azure-Storage)**
 

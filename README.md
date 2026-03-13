@@ -1,6 +1,15 @@
 # 👋 Hi, I'm Daniel
 
-Cloud & IT enthusiast currently preparing for **Microsoft Azure Administrator (AZ-104)**.
+Cloud & IT enthusiast and **Microsoft Certified: Azure Administrator Associate (AZ-104)**.
+
+I focus on Azure infrastructure, governance, networking, and cloud operations.
+My goal is to grow into a **Cloud / Azure Administrator role**.
+
+---
+
+## 🏅 Certifications
+
+* Microsoft Certified: Azure Administrator Associate (AZ-104)
 
 ---
 
@@ -54,15 +63,23 @@ Each lab includes:
 
 ---
 
+## 🚀 Upcoming Projects
+
+* Azure **Hub-and-Spoke Enterprise Network Architecture**
+* **On-Premises to Azure Migration Project**
+* Infrastructure as Code with **Bicep / ARM**
+
+---
+
 ## 🎯 Goals
 
-* Earn **AZ-104 certification**
-* Build a strong cloud portfolio
+* Build advanced Azure architecture projects
+* Gain real-world experience with cloud infrastructure
 * Transition into a Cloud / Azure Administrator role
 
 ---
 
 📫 **Let’s connect**
 
-* GitHub: [https://github.com/DanielTeruel](https://github.com/DanielTeruel)
-* LinkedIn: [https://www.linkedin.com/in/daniel-teruel](https://es.linkedin.com/in/daniel-teruel-tirado)
+* GitHub: https://github.com/DanielTeruel
+* LinkedIn: https://es.linkedin.com/in/daniel-teruel-tirado

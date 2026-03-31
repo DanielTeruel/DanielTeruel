@@ -1,7 +1,7 @@
 # Hi, I'm Daniel
 
-**Microsoft Certified: Azure Administrator Associate (AZ-104)**  
-Cloud & IT focused on Azure infrastructure, hybrid identity, IaC, and cloud operations.  
+**Microsoft Certified: Azure Administrator Associate (AZ-104)**
+Cloud & IT focused on Azure infrastructure, hybrid identity, IaC, and cloud operations.
 Working toward a **Cloud / Azure Administrator** role.
 
 ---
@@ -54,6 +54,16 @@ ASP.NET Core 8 portfolio web application — the workload migrated in the AD Mig
 
 ---
 
+## Other Projects
+
+### [SOC Lab — ELK Stack on AWS](https://github.com/DanielTeruel/aws-soc-elk)
+
+Deployment of a Security Operations Center environment using the ELK Stack (Elasticsearch, Logstash, Kibana) on AWS EC2. The stack runs fully containerized via Docker and Docker Compose, with Logstash ingesting events into Elasticsearch and Kibana providing the visualization layer.
+
+**Stack:** AWS EC2 · Amazon Linux · Docker · Docker Compose · Elasticsearch · Logstash · Kibana
+
+---
+
 ## AZ-104 Labs
 
 | Lab | Topic |
@@ -75,11 +85,13 @@ Each lab includes a business scenario, step-by-step documentation, screenshots, 
 
 ## Technologies
 
-**Cloud:** Microsoft Azure · Entra ID · Entra Connect · Azure Arc · Azure Update Manager · Intune · App Service · Azure VM · Key Vault · Managed Identity · Azure Files · Recovery Services Vault · Azure Bastion · Azure Policy · Log Analytics · Application Insights · ARM Templates · VNet · NSG
+**Cloud:** Microsoft Azure · Entra ID · Entra Connect · Azure Arc · Azure Update Manager · Intune · App Service · Azure VM · Key Vault · Managed Identity · Azure Files · Recovery Services Vault · Azure Bastion · Azure Policy · Log Analytics · Application Insights · ARM Templates · VNet · NSG · AWS EC2
 
 **IaC & Automation:** Bicep · Terraform · GitHub Actions · AzCopy · Azure CLI · PowerShell
 
 **On-Premises:** Windows Server 2019 · Active Directory DS · DNS · DHCP · WSUS · Group Policy · IIS · ASP.NET Core 8 · SQL Server · Windows Server Backup · VMware Workstation Pro 17
+
+**Containers:** Docker · Docker Compose · ELK Stack
 
 **Tools:** PowerShell · Git · GitHub · SSMS · Visual Studio Code
 
@@ -98,3 +110,4 @@ Each lab includes a business scenario, step-by-step documentation, screenshots, 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel%20Teruel%20Tirado-0077b5?logo=linkedin)](https://es.linkedin.com/in/daniel-teruel-tirado)
 [![GitHub](https://img.shields.io/badge/GitHub-DanielTeruel-181717?logo=github)](https://github.com/DanielTeruel)
+'@

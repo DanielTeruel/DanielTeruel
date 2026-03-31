@@ -110,4 +110,3 @@ Each lab includes a business scenario, step-by-step documentation, screenshots, 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel%20Teruel%20Tirado-0077b5?logo=linkedin)](https://es.linkedin.com/in/daniel-teruel-tirado)
 [![GitHub](https://img.shields.io/badge/GitHub-DanielTeruel-181717?logo=github)](https://github.com/DanielTeruel)
-'@
